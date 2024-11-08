@@ -24,5 +24,6 @@
     margin-right: 0%;
     object-fit: cover;
     border-radius: 0.25rem;
+    transform: translateX(20%);
     /* Optional: to keep the rounded corners */
 }

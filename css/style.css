@@ -9,7 +9,7 @@
 
 /* Adds space below the header */
 .navbar {
-    margin-bottom: 1px;
+    margin-bottom: 0px;
     /* Adjust as needed */
     background: url(https://cdn.pixabay.com/photo/2020/08/03/18/32/starbucks-5460799_1280.jpg
 ) no-repeat center center;
@@ -24,6 +24,6 @@
     margin-right: 0%;
     object-fit: cover;
     border-radius: 0.25rem;
-    transform: translateX(20%);
+    transform: translateX(19%);
     /* Optional: to keep the rounded corners */
 }
